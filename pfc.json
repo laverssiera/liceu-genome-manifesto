@@ -1,0 +1,24 @@
+[
+  {
+    "id": "FC-006",
+    "kind": "pfc",
+    "regression_tests": [
+      {
+        "file": "backend/tests/test_contradicao_declaracoes.py",
+        "name": "test_o_caso_real_da_p001_e_pego",
+        "repo": "JURIDICO-TECH"
+      }
+    ]
+  },
+  {
+    "id": "FC-007",
+    "kind": "pfc",
+    "regression_tests": [
+      {
+        "file": "infra/security/test_prova_de_revogacao.py",
+        "name": "test_sem_linha_de_base_NAO_e_prova_de_revogacao",
+        "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+      }
+    ]
+  }
+]

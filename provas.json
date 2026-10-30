@@ -1,0 +1,741 @@
+[
+  {
+    "id": "PRF-0003",
+    "mechanism": {
+      "commit": "9037c74",
+      "content_hash": "5c672a09fed14ae2589dffa99a03a6812ba0255696850ed4d31aa7bbe22c1142",
+      "paths": [
+        "cv-backend-core/tests/test_event_bus_nats.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0008",
+    "mechanism": {
+      "commit": "9037c74",
+      "content_hash": "918c4a7676a1d37dce32050200b28636f117145065ce56bdf1462c115bf82ef2",
+      "paths": [
+        "cv-backend-core/app/services/payload_refs.py",
+        "cv-backend-core/tests/test_payload_refs.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0009",
+    "mechanism": {
+      "commit": "a082c1b",
+      "content_hash": "7d7a6ca40e94c57e468adc55ff0cc02557567d221f4ffb685f9b9c42472806ce",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0011",
+    "mechanism": {
+      "commit": "9037c74",
+      "content_hash": "426b62f9ff1feb6cb8501ed7f97ae91496f52632cd4982c4ed3579f6f2c16aef",
+      "paths": [
+        "cv-backend-core/tests/test_readiness.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0012",
+    "mechanism": {
+      "commit": "31b8b36",
+      "content_hash": "0ff76b55a11b53e5af0e162796b1832987f46f3c8afc66dd676a562514a06da6",
+      "paths": [
+        "anchors/runtime/earth_governance_runtime.py",
+        "tests/test_earth_governance_runtime.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
+    }
+  },
+  {
+    "id": "PRF-0013",
+    "mechanism": {
+      "commit": "502c19b",
+      "content_hash": "db7cd6b434d3c1e8a6db72f78723221a4409be38694e1cfe79a369f39d1826ab",
+      "paths": [
+        "backend/app/federation/authorization_publisher.py",
+        "tests/test_authorization_publisher.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
+    }
+  },
+  {
+    "id": "PRF-0018",
+    "mechanism": {
+      "commit": "40d7fce",
+      "content_hash": "e470074df88d3a222bf057db7ffd8acb3cccf57ede0f64f5b77712946ba48165",
+      "paths": [
+        "backend/juridicotech/modules/condominio_l0.py",
+        "backend/tests/test_condominio_l0.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0019",
+    "mechanism": {
+      "commit": "40d7fce",
+      "content_hash": "cbbf2726d58b072de2b46a70d5501b41ceffbb3899093c473ca6ee5d8af3c6f7",
+      "paths": [
+        "backend/juridicotech/modules/contradicao_declaracoes.py",
+        "backend/juridicotech/dados/declaracoes_p001.json",
+        "backend/tests/test_contradicao_declaracoes.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0022",
+    "mechanism": {
+      "commit": "73b24a7",
+      "content_hash": "eeefa7a0c5f0cfbea7c941f850a7218f6bf6f9dfdffa5a76ebd0a6859c68d901",
+      "paths": [
+        "backend/juridicotech/modules/prontidao_protocolo.py",
+        "backend/tests/test_prontidao_protocolo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0023",
+    "mechanism": {
+      "commit": "a082c1b",
+      "content_hash": "855370a329071b9a08231c70f9ab8f214b481ac6c7dbbdc930a4dc81d93d15b9",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "scripts/elo1_act.py",
+        "tests/test_elo1_act_cli.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0029",
+    "mechanism": {
+      "commit": "0455378",
+      "content_hash": "f2d7ba0a7f707d0c6641ec423f59cb7a16beff0387098adf6772175567708122",
+      "paths": [
+        "backend/juridicotech/modules/certidao_diretrizes.py",
+        "backend/juridicotech/dados/certidao_diretrizes_vgp.json",
+        "backend/tests/test_certidao_diretrizes.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0037",
+    "mechanism": {
+      "commit": "3380112",
+      "content_hash": "95753bb4d3bcebec59430941b528e9f10cba3d57dafafbb67c2b3262bdaa8ff3",
+      "paths": [
+        "liceu_protocol/liceu_contract_vectors.py"
+      ],
+      "repo": "liceu-protocol"
+    }
+  },
+  {
+    "id": "PRF-0038",
+    "mechanism": {
+      "commit": "accbb11",
+      "content_hash": "86cdd6f14f5c4f4c55d3e9a592ebd1c1f0002084661147b188bf00412b3cd6f7",
+      "paths": [
+        "cefeida/backend/federation/evidence_publisher.py",
+        "cefeida/backend/tests/test_contract_reality_check.py"
+      ],
+      "repo": "3C273-Analytics-Data-Science"
+    }
+  },
+  {
+    "id": "PRF-0039",
+    "mechanism": {
+      "commit": "3380112",
+      "content_hash": "95753bb4d3bcebec59430941b528e9f10cba3d57dafafbb67c2b3262bdaa8ff3",
+      "paths": [
+        "liceu_protocol/liceu_contract_vectors.py"
+      ],
+      "repo": "liceu-protocol"
+    }
+  },
+  {
+    "id": "PRF-0042",
+    "mechanism": {
+      "commit": "41ab5fd",
+      "content_hash": "e2ee6b664f8102337c73502ed9d09d85b8c9c186bbee8871d354473276a4a0f2",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
+    }
+  },
+  {
+    "id": "PRF-0043",
+    "mechanism": {
+      "commit": "41ab5fd",
+      "content_hash": "e2ee6b664f8102337c73502ed9d09d85b8c9c186bbee8871d354473276a4a0f2",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
+    }
+  },
+  {
+    "id": "PRF-0058",
+    "mechanism": {
+      "commit": "1f6e491",
+      "content_hash": "4871f7212b3c48fcbd168617f0857b2a9dcd24f0c92a4c2c3728310090d6af67",
+      "paths": [
+        "cv-backend-core/app/services/authority_control_plane.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0060",
+    "mechanism": {
+      "commit": "c1e1e33",
+      "content_hash": "9e28ea76852435bbd5899d0ee9499bb80a31a8db7117e8fd8cfd54f55a396b36",
+      "paths": [
+        "cv-backend-core/tests/test_quebrar_de_proposito.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0061",
+    "mechanism": {
+      "commit": "c1e1e33",
+      "content_hash": "9e28ea76852435bbd5899d0ee9499bb80a31a8db7117e8fd8cfd54f55a396b36",
+      "paths": [
+        "cv-backend-core/tests/test_quebrar_de_proposito.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0065",
+    "mechanism": {
+      "commit": "fb0fb0b",
+      "content_hash": "0d9a54eb04b993ce6d28ece56afbf44c03977258635d74aded10513fccfe1a43",
+      "paths": [
+        "infra/authority/sonda_testemunha.py",
+        "infra/authority/test_sonda_testemunha.py",
+        "cv-backend-core/tests/test_sonda_atesta_no_core.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0066",
+    "mechanism": {
+      "commit": "1f6e491",
+      "content_hash": "6b01a725d5ea03a670b7db488fb210337d49e7035f95baa35c904095e8ffca12",
+      "paths": [
+        "docker-compose.yml",
+        ".env.example",
+        "cv-backend-core/app/services/authority_control_plane.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0078",
+    "mechanism": {
+      "commit": "4d8b626",
+      "content_hash": "de550aa2550f7dfb31a5462c397eafb43b4d67d9506d02f6cf8fd823ed2a5753",
+      "paths": [
+        "infra/security/varredura.py",
+        "infra/security/test_varredura.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0080",
+    "mechanism": {
+      "commit": "4d8b626",
+      "content_hash": "5121d4c700ce535ad81d534739ab56aa635f90fceaa3eb10a4035c6f5f72d431",
+      "paths": [
+        "infra/security/borda_compose.py",
+        "cv-backend-core/tests/test_borda_compose.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0081",
+    "mechanism": {
+      "commit": "4d8b626",
+      "content_hash": "5121d4c700ce535ad81d534739ab56aa635f90fceaa3eb10a4035c6f5f72d431",
+      "paths": [
+        "infra/security/borda_compose.py",
+        "cv-backend-core/tests/test_borda_compose.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0083",
+    "mechanism": {
+      "commit": "83634c5",
+      "content_hash": "f149e82de17866adcb721c5a29065d8b0c5c8d0b3163fbcd0e5965e79a43dab9",
+      "paths": [
+        "infra/security/uso_de_segredo.py",
+        "infra/security/test_uso_de_segredo.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0084",
+    "mechanism": {
+      "commit": "83634c5",
+      "content_hash": "d6da3e0fe78c5b84de632ebaa3a898cde5966024fdf8616d78689512550f7a56",
+      "paths": [
+        "infra/security/inventario_segredos.py",
+        "infra/security/test_inventario_segredos.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0085",
+    "mechanism": {
+      "commit": "83634c5",
+      "content_hash": "ea6e6b7568d654edafee6c5b58a3311b6a3c7d57a56ee5981d3c88c93178726a",
+      "paths": [
+        "infra/security/inventario_segredos.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0094",
+    "mechanism": {
+      "commit": "1367aef",
+      "content_hash": "e1df984ef9fd7d51b050a4d94d0af6a4a6cd2cf200ba2b0f2c5cf4ff6478be92",
+      "paths": [
+        "backend/juridicotech/dados/documentos_p001.json",
+        "backend/juridicotech/dados/protocolo_construcao_residencial_vgp.json",
+        "backend/juridicotech/modules/documentos_protocolo.py",
+        "backend/tests/test_documentos_protocolo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0095",
+    "mechanism": {
+      "commit": "1367aef",
+      "content_hash": "e1df984ef9fd7d51b050a4d94d0af6a4a6cd2cf200ba2b0f2c5cf4ff6478be92",
+      "paths": [
+        "backend/juridicotech/dados/documentos_p001.json",
+        "backend/juridicotech/dados/protocolo_construcao_residencial_vgp.json",
+        "backend/juridicotech/modules/documentos_protocolo.py",
+        "backend/tests/test_documentos_protocolo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0096",
+    "mechanism": {
+      "commit": "1367aef",
+      "content_hash": "e1df984ef9fd7d51b050a4d94d0af6a4a6cd2cf200ba2b0f2c5cf4ff6478be92",
+      "paths": [
+        "backend/juridicotech/dados/documentos_p001.json",
+        "backend/juridicotech/dados/protocolo_construcao_residencial_vgp.json",
+        "backend/juridicotech/modules/documentos_protocolo.py",
+        "backend/tests/test_documentos_protocolo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0105",
+    "mechanism": {
+      "commit": "302516c",
+      "content_hash": "1a48f3496c6679f74d87b8aed7af2945f2cd5e6a62966251ee22c029e087af82",
+      "paths": [
+        "infra/security/prova_de_revogacao.py",
+        "infra/security/test_prova_de_revogacao.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0106",
+    "mechanism": {
+      "commit": "302516c",
+      "content_hash": "1a48f3496c6679f74d87b8aed7af2945f2cd5e6a62966251ee22c029e087af82",
+      "paths": [
+        "infra/security/prova_de_revogacao.py",
+        "infra/security/test_prova_de_revogacao.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0107",
+    "mechanism": {
+      "commit": "302516c",
+      "content_hash": "1a48f3496c6679f74d87b8aed7af2945f2cd5e6a62966251ee22c029e087af82",
+      "paths": [
+        "infra/security/prova_de_revogacao.py",
+        "infra/security/test_prova_de_revogacao.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0109",
+    "mechanism": {
+      "commit": "302516c",
+      "content_hash": "1a48f3496c6679f74d87b8aed7af2945f2cd5e6a62966251ee22c029e087af82",
+      "paths": [
+        "infra/security/prova_de_revogacao.py",
+        "infra/security/test_prova_de_revogacao.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0118",
+    "mechanism": {
+      "commit": "1f6e491",
+      "content_hash": "ef6d077ca3ee06d49c8479a2d07ebe1bafd4f3823b2a5a354b0d8bdf15b5819c",
+      "paths": [
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "cv-backend-core/tests/test_authority_witness.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0133",
+    "mechanism": {
+      "commit": "5c23b49affe64dfc17a127e93c4a0fec88068584",
+      "content_hash": "8757bd492ddc6c7fdaadd611bba34e1349f57f10216c7770144259c182eff2eb",
+      "paths": [
+        "cv-backend-core/tools/control_plane_inventory.py",
+        "cv-backend-core/tools/control_plane_gate.py",
+        "cv-backend-core/tests/test_control_plane_characterization.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0134",
+    "mechanism": {
+      "commit": "afff7895c39a42999e9abfd6f9c5162658ed831a",
+      "content_hash": "ff3032e9a8a258493b1597e5399ee8f7d6a039e4a844c5d6e4e3f3ef64ec3156",
+      "paths": [
+        "infra/authority/testemunha.py",
+        "infra/authority/prova_de_observacao.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0135",
+    "mechanism": {
+      "commit": "afff7895c39a42999e9abfd6f9c5162658ed831a",
+      "content_hash": "7e43b79f9d0d6b67ef095878cebe5ebab02628bd0bd76de87115bcd52fd5f8a5",
+      "paths": [
+        "infra/authority/diario_testemunha.py",
+        "infra/authority/test_diario_testemunha.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0171",
+    "mechanism": {
+      "commit": "0f8fa0c",
+      "content_hash": "c401cdc9e5d37af91fcf316bcc3c1e0bd3a4dc63c0b4f4916f36e41595d53f56",
+      "paths": [
+        "infra/security/valor_colado.py",
+        "infra/security/test_valor_colado.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0177",
+    "mechanism": {
+      "commit": "1f6e491",
+      "content_hash": "ef6d077ca3ee06d49c8479a2d07ebe1bafd4f3823b2a5a354b0d8bdf15b5819c",
+      "paths": [
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "cv-backend-core/tests/test_authority_witness.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0180",
+    "mechanism": {
+      "commit": "7771f2c",
+      "content_hash": "62757aa25646610a413ca681827bbc188807512c5312497ebcc49977ee9b5928",
+      "paths": [
+        "cv-backend-core/app/services/protocol_kit.py",
+        "cv-backend-core/tests/test_witness_prefixes_derivados.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0255",
+    "mechanism": {
+      "commit": "2ebfc75",
+      "content_hash": "c49dbba8eaa90b4f78251bee6ad4bce99e190ade78cf584ed8269575a6698635",
+      "paths": [
+        "liceu_protocol/liceu_constitution.yaml"
+      ],
+      "repo": "liceu-protocol"
+    }
+  },
+  {
+    "id": "PRF-0259",
+    "mechanism": {
+      "commit": "2ebfc75",
+      "content_hash": "872fd72c82c6c59d43c75f0b42fac6057626a86848b320d7bbe0926a952dfdaa",
+      "paths": [
+        "liceu_protocol/liceu_producer_registry.yaml"
+      ],
+      "repo": "liceu-protocol"
+    }
+  },
+  {
+    "id": "PRF-0282",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "978ce78a8cb212962709ae9d5f9d3150894a2ddd160818897329a80ea01485c6",
+      "paths": [
+        "backend/juridicotech/dados/projeto_p001.json",
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json",
+        "backend/juridicotech/modules/conformidade_urbanistica.py",
+        "backend/tests/test_conformidade_urbanistica.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0283",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "978ce78a8cb212962709ae9d5f9d3150894a2ddd160818897329a80ea01485c6",
+      "paths": [
+        "backend/juridicotech/dados/projeto_p001.json",
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json",
+        "backend/juridicotech/modules/conformidade_urbanistica.py",
+        "backend/tests/test_conformidade_urbanistica.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0284",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "9a63bc85280d746a638a67ce643efe80e85e55eefd783c7588ee65e9f3ec0a89",
+      "paths": [
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0285",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "978ce78a8cb212962709ae9d5f9d3150894a2ddd160818897329a80ea01485c6",
+      "paths": [
+        "backend/juridicotech/dados/projeto_p001.json",
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json",
+        "backend/juridicotech/modules/conformidade_urbanistica.py",
+        "backend/tests/test_conformidade_urbanistica.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0286",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "978ce78a8cb212962709ae9d5f9d3150894a2ddd160818897329a80ea01485c6",
+      "paths": [
+        "backend/juridicotech/dados/projeto_p001.json",
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json",
+        "backend/juridicotech/modules/conformidade_urbanistica.py",
+        "backend/tests/test_conformidade_urbanistica.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0287",
+    "mechanism": {
+      "commit": "1a07716",
+      "content_hash": "978ce78a8cb212962709ae9d5f9d3150894a2ddd160818897329a80ea01485c6",
+      "paths": [
+        "backend/juridicotech/dados/projeto_p001.json",
+        "backend/juridicotech/dados/vgp_lc030_2007_zm.json",
+        "backend/juridicotech/modules/conformidade_urbanistica.py",
+        "backend/tests/test_conformidade_urbanistica.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0288",
+    "mechanism": {
+      "commit": "885e42c",
+      "content_hash": "e39d919bd0d4541461d7cf5a3f418b2a48480c057b7f824375ec268749f27a2c",
+      "paths": [
+        "backend/juridicotech/modules/previsoes_processo.py",
+        "backend/tests/test_previsoes_processo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0289",
+    "mechanism": {
+      "commit": "885e42c",
+      "content_hash": "e39d919bd0d4541461d7cf5a3f418b2a48480c057b7f824375ec268749f27a2c",
+      "paths": [
+        "backend/juridicotech/modules/previsoes_processo.py",
+        "backend/tests/test_previsoes_processo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0290",
+    "mechanism": {
+      "commit": "885e42c",
+      "content_hash": "e39d919bd0d4541461d7cf5a3f418b2a48480c057b7f824375ec268749f27a2c",
+      "paths": [
+        "backend/juridicotech/modules/previsoes_processo.py",
+        "backend/tests/test_previsoes_processo.py"
+      ],
+      "repo": "JURIDICO-TECH"
+    }
+  },
+  {
+    "id": "PRF-0293",
+    "mechanism": {
+      "commit": "0c3b6e7",
+      "content_hash": "fad57082dbd17abb46c8ce47ecb811fdb17f52fcca9643529d8fd39583eb2ce6",
+      "paths": [
+        ".github/scripts/main_guard.sh",
+        ".github/scripts/test_main_guard.sh"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0309",
+    "mechanism": {
+      "commit": "4fecd61c16f7764e77b7fe97b82153cfa6aa8868",
+      "content_hash": "af17320846f3c28f1c61fd188db924a8bbbdbd0dcaf82da12476cb024f6181eb",
+      "paths": [
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "infra/authority/sonda_identidade.py",
+        "infra/laboratorio/prova_f_a_linha_sobrevive.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0331",
+    "mechanism": {
+      "commit": "d463efe",
+      "content_hash": "95b21f36d995c5e40d5f5292380e70223f2fd55a51169a4de49797dff69bdc15",
+      "paths": [
+        "cv-backend-core/tests/test_authority_control_plane.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0332",
+    "mechanism": {
+      "commit": "d463efe",
+      "content_hash": "95b21f36d995c5e40d5f5292380e70223f2fd55a51169a4de49797dff69bdc15",
+      "paths": [
+        "cv-backend-core/tests/test_authority_control_plane.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0339",
+    "mechanism": {
+      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
+      "content_hash": "d1fd7d83943cfd29ae1eff25a23b230a3287c0597367744b1d2b6f8a6e6cdb71",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/services/arrival_census.py",
+        "cv-backend-core/app/models/arrival_census.py",
+        "infra/laboratorio/lab.sh",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0340",
+    "mechanism": {
+      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
+      "content_hash": "de5535cffbf191e1e60fe8a0d39c61314ac42cd5061aac6058c3777f487d5195",
+      "paths": [
+        "infra/authority/sonda_identidade.py",
+        "infra/laboratorio/compose.yml",
+        "infra/laboratorio/lab.sh",
+        "infra/laboratorio/prova_e_testemunha.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0341",
+    "mechanism": {
+      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
+      "content_hash": "8fbdceaa1350a5689d87a7c042a8b7246b4199d13f2ab67765a239eb0a904822",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "cv-backend-core/tests/test_testemunha_nao_declara_o_que_viu.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0342",
+    "mechanism": {
+      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
+      "content_hash": "fb76e573199fa6ca4c991c3c6e491336589fb2fff3070433402905a5f096e460",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/models/authority_replica.py",
+        "cv-backend-core/app/services/authority_replica.py",
+        "infra/laboratorio/compose.yml",
+        "infra/laboratorio/prova_f_a_linha_sobrevive.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  }
+]
