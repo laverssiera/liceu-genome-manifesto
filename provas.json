@@ -682,21 +682,6 @@
     }
   },
   {
-    "id": "PRF-0339",
-    "mechanism": {
-      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
-      "content_hash": "d1fd7d83943cfd29ae1eff25a23b230a3287c0597367744b1d2b6f8a6e6cdb71",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/app/services/arrival_census.py",
-        "cv-backend-core/app/models/arrival_census.py",
-        "infra/laboratorio/lab.sh",
-        "infra/laboratorio/prova_censo_linha_de_base.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
     "id": "PRF-0340",
     "mechanism": {
       "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
@@ -711,10 +696,25 @@
     }
   },
   {
-    "id": "PRF-0341",
+    "id": "PRF-0347",
     "mechanism": {
-      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
-      "content_hash": "8fbdceaa1350a5689d87a7c042a8b7246b4199d13f2ab67765a239eb0a904822",
+      "commit": "5dbe3036e946293496abc2eef08fdcc0f2012039",
+      "content_hash": "632217308f3e0e3cea05b427f7a591415ced1cc1c1c364b361ea5377c14f8647",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/services/arrival_census.py",
+        "cv-backend-core/app/models/arrival_census.py",
+        "infra/laboratorio/lab.sh",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0348",
+    "mechanism": {
+      "commit": "5dbe3036e946293496abc2eef08fdcc0f2012039",
+      "content_hash": "d3e93dc35483640d5a2f54e80f2a13b8d285dee173f0a29d8075329004849cd7",
       "paths": [
         "cv-backend-core/app/main.py",
         "cv-backend-core/app/services/authority_control_plane.py",
@@ -724,16 +724,40 @@
     }
   },
   {
-    "id": "PRF-0342",
+    "id": "PRF-0349",
     "mechanism": {
-      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
-      "content_hash": "fb76e573199fa6ca4c991c3c6e491336589fb2fff3070433402905a5f096e460",
+      "commit": "5dbe3036e946293496abc2eef08fdcc0f2012039",
+      "content_hash": "bd1b89713eab3f404ab237435418a9394795910e6e7a0d39f5ec6746acbee400",
       "paths": [
         "cv-backend-core/app/main.py",
         "cv-backend-core/app/models/authority_replica.py",
         "cv-backend-core/app/services/authority_replica.py",
         "infra/laboratorio/compose.yml",
         "infra/laboratorio/prova_f_a_linha_sobrevive.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0350",
+    "mechanism": {
+      "commit": "5dbe3036e946293496abc2eef08fdcc0f2012039",
+      "content_hash": "dd8c05df39c9e3f99d4d78da8afb1c1e9158800ccfcff3650fad81d38da86e43",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0351",
+    "mechanism": {
+      "commit": "5dbe3036e946293496abc2eef08fdcc0f2012039",
+      "content_hash": "069bf3f9bf73ae52d5b9a0a66b56340453f7330976f60adda50e1861d6d69047",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/tests/test_escala_persistida.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
