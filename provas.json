@@ -144,18 +144,6 @@
     }
   },
   {
-    "id": "PRF-0038",
-    "mechanism": {
-      "commit": "accbb11",
-      "content_hash": "86cdd6f14f5c4f4c55d3e9a592ebd1c1f0002084661147b188bf00412b3cd6f7",
-      "paths": [
-        "cefeida/backend/federation/evidence_publisher.py",
-        "cefeida/backend/tests/test_contract_reality_check.py"
-      ],
-      "repo": "3C273-Analytics-Data-Science"
-    }
-  },
-  {
     "id": "PRF-0039",
     "mechanism": {
       "commit": "3380112",
@@ -164,30 +152,6 @@
         "liceu_protocol/liceu_contract_vectors.py"
       ],
       "repo": "liceu-protocol"
-    }
-  },
-  {
-    "id": "PRF-0042",
-    "mechanism": {
-      "commit": "41ab5fd",
-      "content_hash": "e2ee6b664f8102337c73502ed9d09d85b8c9c186bbee8871d354473276a4a0f2",
-      "paths": [
-        "app/federation/planning_request_publisher.py",
-        "tests/test_contract_reality_check.py"
-      ],
-      "repo": "HUB-BACKOFICE-LICEU-6.0"
-    }
-  },
-  {
-    "id": "PRF-0043",
-    "mechanism": {
-      "commit": "41ab5fd",
-      "content_hash": "e2ee6b664f8102337c73502ed9d09d85b8c9c186bbee8871d354473276a4a0f2",
-      "paths": [
-        "app/federation/planning_request_publisher.py",
-        "tests/test_contract_reality_check.py"
-      ],
-      "repo": "HUB-BACKOFICE-LICEU-6.0"
     }
   },
   {
@@ -776,6 +740,42 @@
         "infra/backup/backup_core_db.sh"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0364",
+    "mechanism": {
+      "commit": "d793ae8",
+      "content_hash": "e61458ded11c3067828af51df953ba36531eb7cd09160f1edfb0f6c004ed915c",
+      "paths": [
+        "cefeida/backend/federation/evidence_publisher.py",
+        "cefeida/backend/tests/test_contract_reality_check.py"
+      ],
+      "repo": "3C273-Analytics-Data-Science"
+    }
+  },
+  {
+    "id": "PRF-0365",
+    "mechanism": {
+      "commit": "aac0d52",
+      "content_hash": "16a547f4551c0a5d0c13d730fa915bd39da0d85798c588d04ed8e835c4b22918",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
+    }
+  },
+  {
+    "id": "PRF-0366",
+    "mechanism": {
+      "commit": "aac0d52",
+      "content_hash": "16a547f4551c0a5d0c13d730fa915bd39da0d85798c588d04ed8e835c4b22918",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
     }
   }
 ]
