@@ -761,5 +761,21 @@
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
+  },
+  {
+    "id": "PRF-0359",
+    "mechanism": {
+      "commit": "de33518",
+      "content_hash": "6290034a81a71b90d58109db8c4c3adf1ae778b490235d2d40150af288838c46",
+      "paths": [
+        "cv-backend-core/.github_ci_bootstrap_postgres.py",
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/models/arrival_census.py",
+        "cv-backend-core/app/models/authority.py",
+        "cv-backend-core/app/models/orchestration.py",
+        "infra/backup/backup_core_db.sh"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
   }
 ]
