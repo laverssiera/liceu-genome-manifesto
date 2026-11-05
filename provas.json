@@ -23,18 +23,6 @@
     }
   },
   {
-    "id": "PRF-0009",
-    "mechanism": {
-      "commit": "a082c1b",
-      "content_hash": "7d7a6ca40e94c57e468adc55ff0cc02557567d221f4ffb685f9b9c42472806ce",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
     "id": "PRF-0011",
     "mechanism": {
       "commit": "9037c74",
@@ -92,19 +80,6 @@
         "backend/tests/test_prontidao_protocolo.py"
       ],
       "repo": "JURIDICO-TECH"
-    }
-  },
-  {
-    "id": "PRF-0023",
-    "mechanism": {
-      "commit": "a082c1b",
-      "content_hash": "855370a329071b9a08231c70f9ab8f214b481ac6c7dbbdc930a4dc81d93d15b9",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "scripts/elo1_act.py",
-        "tests/test_elo1_act_cli.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
     }
   },
   {
@@ -648,42 +623,6 @@
     }
   },
   {
-    "id": "PRF-0364",
-    "mechanism": {
-      "commit": "d793ae8",
-      "content_hash": "e61458ded11c3067828af51df953ba36531eb7cd09160f1edfb0f6c004ed915c",
-      "paths": [
-        "cefeida/backend/federation/evidence_publisher.py",
-        "cefeida/backend/tests/test_contract_reality_check.py"
-      ],
-      "repo": "3C273-Analytics-Data-Science"
-    }
-  },
-  {
-    "id": "PRF-0365",
-    "mechanism": {
-      "commit": "aac0d52",
-      "content_hash": "16a547f4551c0a5d0c13d730fa915bd39da0d85798c588d04ed8e835c4b22918",
-      "paths": [
-        "app/federation/planning_request_publisher.py",
-        "tests/test_contract_reality_check.py"
-      ],
-      "repo": "HUB-BACKOFICE-LICEU-6.0"
-    }
-  },
-  {
-    "id": "PRF-0366",
-    "mechanism": {
-      "commit": "aac0d52",
-      "content_hash": "16a547f4551c0a5d0c13d730fa915bd39da0d85798c588d04ed8e835c4b22918",
-      "paths": [
-        "app/federation/planning_request_publisher.py",
-        "tests/test_contract_reality_check.py"
-      ],
-      "repo": "HUB-BACKOFICE-LICEU-6.0"
-    }
-  },
-  {
     "id": "PRF-0372",
     "mechanism": {
       "commit": "5ed6ab5",
@@ -837,6 +776,67 @@
         "infra/laboratorio/prova_k06_a_recusa_real.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0389",
+    "mechanism": {
+      "commit": "562cf24",
+      "content_hash": "cbdaf7817e7f3aa0632e0907aea7d99f254ef25ff743c8f77a08e6b69cffab4a",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0390",
+    "mechanism": {
+      "commit": "562cf24",
+      "content_hash": "04b1814f8d69450b9ed164c842ba46f39087b3f138f04fda7ac8a451fe86bc19",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "scripts/elo1_act.py",
+        "tests/test_elo1_act_cli.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0391",
+    "mechanism": {
+      "commit": "5bd10da",
+      "content_hash": "a628e4aa07dae3d3a1e3bec9d5629204abed216d99b693aef4d84f06ab8f0a8e",
+      "paths": [
+        "cefeida/backend/federation/evidence_publisher.py",
+        "cefeida/backend/tests/test_contract_reality_check.py"
+      ],
+      "repo": "3C273-Analytics-Data-Science"
+    }
+  },
+  {
+    "id": "PRF-0392",
+    "mechanism": {
+      "commit": "c83726f",
+      "content_hash": "3e832e469ea0986305d7566892b16b9a43a919420c258361d8a23be6a7567aae",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
+    }
+  },
+  {
+    "id": "PRF-0393",
+    "mechanism": {
+      "commit": "c83726f",
+      "content_hash": "3e832e469ea0986305d7566892b16b9a43a919420c258361d8a23be6a7567aae",
+      "paths": [
+        "app/federation/planning_request_publisher.py",
+        "tests/test_contract_reality_check.py"
+      ],
+      "repo": "HUB-BACKOFICE-LICEU-6.0"
     }
   }
 ]
