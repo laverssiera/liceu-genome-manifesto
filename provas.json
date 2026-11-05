@@ -58,18 +58,6 @@
     }
   },
   {
-    "id": "PRF-0013",
-    "mechanism": {
-      "commit": "502c19b",
-      "content_hash": "db7cd6b434d3c1e8a6db72f78723221a4409be38694e1cfe79a369f39d1826ab",
-      "paths": [
-        "backend/app/federation/authorization_publisher.py",
-        "tests/test_authorization_publisher.py"
-      ],
-      "repo": "ANCHOR.OS-LICEU6.0"
-    }
-  },
-  {
     "id": "PRF-0018",
     "mechanism": {
       "commit": "40d7fce",
@@ -813,6 +801,30 @@
         "cv-backend-core/tests/test_workspace_users_autoridade.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0381",
+    "mechanism": {
+      "commit": "8f11909",
+      "content_hash": "bc314c5b5e43f3d7a64eee0b2579dc3d24f9098ae927a231159422f72c121f8c",
+      "paths": [
+        "backend/app/federation/authorization_publisher.py",
+        "tests/test_authorization_publisher.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
+    }
+  },
+  {
+    "id": "PRF-0382",
+    "mechanism": {
+      "commit": "8f11909",
+      "content_hash": "bc314c5b5e43f3d7a64eee0b2579dc3d24f9098ae927a231159422f72c121f8c",
+      "paths": [
+        "backend/app/federation/authorization_publisher.py",
+        "tests/test_authorization_publisher.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
     }
   }
 ]
