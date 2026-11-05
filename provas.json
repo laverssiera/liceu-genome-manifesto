@@ -826,5 +826,17 @@
       ],
       "repo": "ANCHOR.OS-LICEU6.0"
     }
+  },
+  {
+    "id": "PRF-0388",
+    "mechanism": {
+      "commit": "130b631",
+      "content_hash": "06e2cafe5dce0197156bd764a4d65142fb20ec3b00721ce3338100d5aefdc78e",
+      "paths": [
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "infra/laboratorio/prova_k06_a_recusa_real.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
   }
 ]
