@@ -609,20 +609,6 @@
     }
   },
   {
-    "id": "PRF-0340",
-    "mechanism": {
-      "commit": "8ececbd982008b9ce230ec496f1d460a10ce72cf",
-      "content_hash": "de5535cffbf191e1e60fe8a0d39c61314ac42cd5061aac6058c3777f487d5195",
-      "paths": [
-        "infra/authority/sonda_identidade.py",
-        "infra/laboratorio/compose.yml",
-        "infra/laboratorio/lab.sh",
-        "infra/laboratorio/prova_e_testemunha.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
     "id": "PRF-0378",
     "mechanism": {
       "commit": "6b5c161",
@@ -887,6 +873,20 @@
         "liceu_protocol/liceu_federation_sdk.py"
       ],
       "repo": "liceu-protocol"
+    }
+  },
+  {
+    "id": "PRF-0409",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "4b3c42f4efbc89f6c27c8f4c3bdf079c249f7de86e3637417f090ac7a46adc5c",
+      "paths": [
+        "infra/authority/sonda_identidade.py",
+        "infra/laboratorio/compose.yml",
+        "infra/laboratorio/lab.sh",
+        "infra/laboratorio/prova_e_testemunha.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
   }
 ]
