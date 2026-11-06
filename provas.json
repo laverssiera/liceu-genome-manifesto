@@ -838,5 +838,17 @@
       ],
       "repo": "HUB-BACKOFICE-LICEU-6.0"
     }
+  },
+  {
+    "id": "PRF-0395",
+    "mechanism": {
+      "commit": "eac739c",
+      "content_hash": "d9e949ba1480693111940a2c69d686311861da425ee757b36dbe3cf6d5ee759b",
+      "paths": [
+        "cv-backend-core/app/services/boundary_conformance.py",
+        "cv-backend-core/tests/test_boundary_conformance.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
   }
 ]
