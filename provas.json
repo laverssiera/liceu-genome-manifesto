@@ -633,30 +633,6 @@
     }
   },
   {
-    "id": "PRF-0381",
-    "mechanism": {
-      "commit": "8f11909",
-      "content_hash": "bc314c5b5e43f3d7a64eee0b2579dc3d24f9098ae927a231159422f72c121f8c",
-      "paths": [
-        "backend/app/federation/authorization_publisher.py",
-        "tests/test_authorization_publisher.py"
-      ],
-      "repo": "ANCHOR.OS-LICEU6.0"
-    }
-  },
-  {
-    "id": "PRF-0382",
-    "mechanism": {
-      "commit": "8f11909",
-      "content_hash": "bc314c5b5e43f3d7a64eee0b2579dc3d24f9098ae927a231159422f72c121f8c",
-      "paths": [
-        "backend/app/federation/authorization_publisher.py",
-        "tests/test_authorization_publisher.py"
-      ],
-      "repo": "ANCHOR.OS-LICEU6.0"
-    }
-  },
-  {
     "id": "PRF-0388",
     "mechanism": {
       "commit": "130b631",
@@ -813,18 +789,6 @@
     }
   },
   {
-    "id": "PRF-0403",
-    "mechanism": {
-      "commit": "d425b8d",
-      "content_hash": "9a1f29a239dfcf2b3a14f0c089a05344fb783c4dd931ab6bc0c8f1f2b8da15f8",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
     "id": "PRF-0404",
     "mechanism": {
       "commit": "d425b8d",
@@ -852,19 +816,6 @@
     }
   },
   {
-    "id": "PRF-0406",
-    "mechanism": {
-      "commit": "d425b8d",
-      "content_hash": "2d6ad6fcee0953ee4f1c9de4d5017ddadbd5d3d5bd1a6c4bdeb3b4949771d10a",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "runtime/authority_kernel.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
     "id": "PRF-0407",
     "mechanism": {
       "commit": "8492eeb",
@@ -885,6 +836,67 @@
         "infra/laboratorio/compose.yml",
         "infra/laboratorio/lab.sh",
         "infra/laboratorio/prova_e_testemunha.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0410",
+    "mechanism": {
+      "commit": "a0012f3",
+      "content_hash": "169d2cfc47c90f056185f92de368c1ae1c3516a89ff8f0ac233476aa6af2cb46",
+      "paths": [
+        "backend/app/federation/authorization_publisher.py",
+        "tests/test_authorization_publisher.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
+    }
+  },
+  {
+    "id": "PRF-0411",
+    "mechanism": {
+      "commit": "a0012f3",
+      "content_hash": "169d2cfc47c90f056185f92de368c1ae1c3516a89ff8f0ac233476aa6af2cb46",
+      "paths": [
+        "backend/app/federation/authorization_publisher.py",
+        "tests/test_authorization_publisher.py"
+      ],
+      "repo": "ANCHOR.OS-LICEU6.0"
+    }
+  },
+  {
+    "id": "PRF-0412",
+    "mechanism": {
+      "commit": "d30cd2d",
+      "content_hash": "8db7ec00e369b503ee0d627b2d8fe3fd38a8231757bce5687d8723af31905261",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0413",
+    "mechanism": {
+      "commit": "d30cd2d",
+      "content_hash": "74070e8bb0645b3ca0e58ac338c283a4dc4dbe307a737d715357ea4a15002331",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "runtime/authority_kernel.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0414",
+    "mechanism": {
+      "commit": "dbb1fca",
+      "content_hash": "4fcf37524d713c9ce699e5d8782dc8d0bb549b19b4f0ff1042fdde711b3a804b",
+      "paths": [
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
