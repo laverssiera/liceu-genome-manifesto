@@ -623,89 +623,6 @@
     }
   },
   {
-    "id": "PRF-0372",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "2a9b68e8ac6cb132e8cab1d29494690170fe6ef313a13d005f68fcbcdf9a2ec3",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/app/services/arrival_census.py",
-        "cv-backend-core/app/models/arrival_census.py",
-        "infra/laboratorio/lab.sh",
-        "infra/laboratorio/prova_censo_linha_de_base.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0373",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "758b7d00d2cc673f86a1587985f7e8a2d58833d1d9b4b44e3013b05597647cac",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/app/services/authority_control_plane.py",
-        "cv-backend-core/tests/test_testemunha_nao_declara_o_que_viu.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0374",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "bfb26bc2be58ba58abed8116ef9b56df47eae3cfa780c52e57fbb749da383465",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/app/models/authority_replica.py",
-        "cv-backend-core/app/services/authority_replica.py",
-        "infra/laboratorio/compose.yml",
-        "infra/laboratorio/prova_f_a_linha_sobrevive.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0375",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "be184dfd1ca3993a31745e5e3be8e394fca36b0f6c596581aacd4f52bdc85126",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "infra/laboratorio/prova_censo_linha_de_base.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0376",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "e8f48e312654ddcab29be94630b5fe681c783a402aee0450c71b2601586639e5",
-      "paths": [
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/tests/test_escala_persistida.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0377",
-    "mechanism": {
-      "commit": "5ed6ab5",
-      "content_hash": "bff199239e34135fb43995c7540659fffaade32a2a898f07fad1046d3a1529b5",
-      "paths": [
-        "cv-backend-core/.github_ci_bootstrap_postgres.py",
-        "cv-backend-core/app/main.py",
-        "cv-backend-core/app/models/arrival_census.py",
-        "cv-backend-core/app/models/authority.py",
-        "cv-backend-core/app/models/orchestration.py",
-        "infra/backup/backup_core_db.sh"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
     "id": "PRF-0378",
     "mechanism": {
       "commit": "6b5c161",
@@ -725,19 +642,6 @@
       "paths": [
         "cv-backend-core/app/services/kanban_runtime.py",
         "cv-backend-core/tests/test_papel_fora_do_kanban.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0380",
-    "mechanism": {
-      "commit": "6b5c161",
-      "content_hash": "cbbf97f0c47265b1861bef8b8d81a5b1419c40dc883f8e809bb77ab224ac8c8c",
-      "paths": [
-        "cv-backend-core/app/config.py",
-        "cv-backend-core/app/core/market_duality.py",
-        "cv-backend-core/tests/test_workspace_users_autoridade.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
@@ -776,31 +680,6 @@
         "infra/laboratorio/prova_k06_a_recusa_real.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
-    "id": "PRF-0389",
-    "mechanism": {
-      "commit": "562cf24",
-      "content_hash": "cbdaf7817e7f3aa0632e0907aea7d99f254ef25ff743c8f77a08e6b69cffab4a",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
-    "id": "PRF-0390",
-    "mechanism": {
-      "commit": "562cf24",
-      "content_hash": "04b1814f8d69450b9ed164c842ba46f39087b3f138f04fda7ac8a451fe86bc19",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "scripts/elo1_act.py",
-        "tests/test_elo1_act_cli.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
     }
   },
   {
@@ -849,6 +728,165 @@
         "cv-backend-core/tests/test_boundary_conformance.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0396",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "df8eece71d2eab1d0e576ca4caa010bd2c60b9135c60b35e70f44b86ce6b7d2b",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/services/arrival_census.py",
+        "cv-backend-core/app/models/arrival_census.py",
+        "infra/laboratorio/lab.sh",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0397",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "6b4f9e449a9bda0f187bd02ec3ca57c00fd0e5a2914d45d5c4a1fced79dd0979",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/services/authority_control_plane.py",
+        "cv-backend-core/tests/test_testemunha_nao_declara_o_que_viu.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0398",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "5e9b5ea08adae1db02469d334cff384219e10e4d92f07df420d4313e5f5b632b",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/models/authority_replica.py",
+        "cv-backend-core/app/services/authority_replica.py",
+        "infra/laboratorio/compose.yml",
+        "infra/laboratorio/prova_f_a_linha_sobrevive.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0399",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "fb8f793af5c3ec8685e4c4d2e29dc0cab712e3eaaf83c5aa1e6e684e2d948f49",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "infra/laboratorio/prova_censo_linha_de_base.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0400",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "f4299083d78cd0bc8b0d8e09fa59f4f6a031191fa8072dcf24c40fab77c8e973",
+      "paths": [
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/tests/test_escala_persistida.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0401",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "7eb7af65bf223a42019dde988a2d43a3072be2bf9137d89c4ddd7a58527e8250",
+      "paths": [
+        "cv-backend-core/.github_ci_bootstrap_postgres.py",
+        "cv-backend-core/app/main.py",
+        "cv-backend-core/app/models/arrival_census.py",
+        "cv-backend-core/app/models/authority.py",
+        "cv-backend-core/app/models/orchestration.py",
+        "infra/backup/backup_core_db.sh"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0402",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "80ce7cf0366b16e8368554c7fcfb0e7dc99d6a2beeda676a44e71569b8715669",
+      "paths": [
+        "cv-backend-core/app/config.py",
+        "cv-backend-core/app/core/market_duality.py",
+        "cv-backend-core/tests/test_workspace_users_autoridade.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0403",
+    "mechanism": {
+      "commit": "d425b8d",
+      "content_hash": "9a1f29a239dfcf2b3a14f0c089a05344fb783c4dd931ab6bc0c8f1f2b8da15f8",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0404",
+    "mechanism": {
+      "commit": "d425b8d",
+      "content_hash": "386cd9570485884718fdee80b2bf7d031008ee091916ba1f15030f739651770b",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "scripts/elo1_act.py",
+        "tests/test_elo1_act_cli.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0405",
+    "mechanism": {
+      "commit": "c60ab6a",
+      "content_hash": "8981cbaec92cc9a2a4dada7bf685a3cc76d833f910e555f57693d3096f4e6148",
+      "paths": [
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "cv-backend-core/app/models/decisao_aberta.py",
+        "cv-backend-core/tests/test_emissao_da_decisao.py",
+        "infra/laboratorio/prova_k06_a_forja.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0406",
+    "mechanism": {
+      "commit": "d425b8d",
+      "content_hash": "2d6ad6fcee0953ee4f1c9de4d5017ddadbd5d3d5bd1a6c4bdeb3b4949771d10a",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "runtime/authority_kernel.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0407",
+    "mechanism": {
+      "commit": "8492eeb",
+      "content_hash": "66d949248208fe937cf3dd9fdefa50cb9db1e5e462fd0e3fa9da705c17291d4f",
+      "paths": [
+        "liceu_protocol/liceu_federation_sdk.py"
+      ],
+      "repo": "liceu-protocol"
     }
   }
 ]
