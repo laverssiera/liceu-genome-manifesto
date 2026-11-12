@@ -926,5 +926,16 @@
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
+  },
+  {
+    "id": "PRF-0475",
+    "mechanism": {
+      "commit": "21dd17b",
+      "content_hash": "554337386702e6fda223720c685dd7e3c7651fb055e803993748149575773d2c",
+      "paths": [
+        "infra/laboratorio/prova_d0_dsn.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
   }
 ]
