@@ -10,7 +10,7 @@ confere byte a byte que este repositorio e o derivado do head dela.
 |---|---|
 | `provas.json` | provas vigentes com superficie: id e `mechanism` (repo, paths, content_hash, commit) |
 | `pfc.json` | falsas afirmacoes evitadas: id e os testes de regressao (repo, file, name) |
-| `tools/` | as ferramentas que as CIs rodam, copias byte a byte das do genoma |
+| `tools/` | as ferramentas que as CIs rodam, copias byte a byte das do genoma; entre elas a guarda de privacidade dos repositorios publicos, sem a lista de negacao, que entra por secret |
 
 Sem titulo, nota ou evidencia de prova nenhuma. Os consumidores buscam tudo
 POR SHA: `git ls-remote` no main, e daqui em diante a URL do sha.
