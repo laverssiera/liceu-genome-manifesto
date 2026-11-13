@@ -937,5 +937,17 @@
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
+  },
+  {
+    "id": "PRF-0476",
+    "mechanism": {
+      "commit": "8dcea8c",
+      "content_hash": "d08efc48bcdba3f46fdb4f6de7442df03c576a588ba9ec27240e801ea66c7d84",
+      "paths": [
+        "infra/laboratorio/prova_unk0024.py",
+        "cv-backend-core/app/services/decisao_aberta.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
   }
 ]
