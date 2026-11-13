@@ -719,20 +719,6 @@
     }
   },
   {
-    "id": "PRF-0405",
-    "mechanism": {
-      "commit": "c60ab6a",
-      "content_hash": "8981cbaec92cc9a2a4dada7bf685a3cc76d833f910e555f57693d3096f4e6148",
-      "paths": [
-        "cv-backend-core/app/services/decisao_aberta.py",
-        "cv-backend-core/app/models/decisao_aberta.py",
-        "cv-backend-core/tests/test_emissao_da_decisao.py",
-        "infra/laboratorio/prova_k06_a_forja.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
     "id": "PRF-0407",
     "mechanism": {
       "commit": "8492eeb",
@@ -804,18 +790,6 @@
         "tests/test_planning_state_call_site.py"
       ],
       "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
-    "id": "PRF-0414",
-    "mechanism": {
-      "commit": "dbb1fca",
-      "content_hash": "4fcf37524d713c9ce699e5d8782dc8d0bb549b19b4f0ff1042fdde711b3a804b",
-      "paths": [
-        "cv-backend-core/app/services/decisao_aberta.py",
-        "infra/laboratorio/prova_censo_linha_de_base.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
   },
   {
@@ -939,13 +913,55 @@
     }
   },
   {
-    "id": "PRF-0476",
+    "id": "PRF-0477",
     "mechanism": {
-      "commit": "8dcea8c",
-      "content_hash": "d08efc48bcdba3f46fdb4f6de7442df03c576a588ba9ec27240e801ea66c7d84",
+      "commit": "861dfb0",
+      "content_hash": "54e8bb9f657e81333a678c43d3e9dda230d9f319447ff2d95ac6d49f50a71d4f",
+      "paths": [
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "cv-backend-core/app/models/decisao_aberta.py",
+        "cv-backend-core/tests/test_emissao_da_decisao.py",
+        "infra/laboratorio/prova_k06_a_forja.py",
+        "cv-backend-core/app/services/mae_que_atende.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0478",
+    "mechanism": {
+      "commit": "861dfb0",
+      "content_hash": "39f4aed5f4e56e5a2d4fa56bca372e78d0c31bc3791c0cbc81f33a99a2e30114",
+      "paths": [
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "infra/laboratorio/prova_censo_linha_de_base.py",
+        "cv-backend-core/app/services/mae_que_atende.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0479",
+    "mechanism": {
+      "commit": "861dfb0",
+      "content_hash": "af68a10f07ef5c525fac9b8eeb2e28d650342d9e41f109173ef8648789e35537",
       "paths": [
         "infra/laboratorio/prova_unk0024.py",
-        "cv-backend-core/app/services/decisao_aberta.py"
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "cv-backend-core/app/services/mae_que_atende.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0480",
+    "mechanism": {
+      "commit": "861dfb0",
+      "content_hash": "bae3059a35503892e183a73fb956f949b87a7d2d1d3c52cdc7e4d83c0659379a",
+      "paths": [
+        "cv-backend-core/app/services/mae_que_atende.py",
+        "cv-backend-core/app/services/decisao_aberta.py",
+        "cv-backend-core/tests/test_mae_que_atende.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
