@@ -706,19 +706,6 @@
     }
   },
   {
-    "id": "PRF-0404",
-    "mechanism": {
-      "commit": "d425b8d",
-      "content_hash": "386cd9570485884718fdee80b2bf7d031008ee091916ba1f15030f739651770b",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "scripts/elo1_act.py",
-        "tests/test_elo1_act_cli.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
     "id": "PRF-0407",
     "mechanism": {
       "commit": "8492eeb",
@@ -765,31 +752,6 @@
         "tests/test_authorization_publisher.py"
       ],
       "repo": "ANCHOR.OS-LICEU6.0"
-    }
-  },
-  {
-    "id": "PRF-0412",
-    "mechanism": {
-      "commit": "d30cd2d",
-      "content_hash": "8db7ec00e369b503ee0d627b2d8fe3fd38a8231757bce5687d8723af31905261",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
-    }
-  },
-  {
-    "id": "PRF-0413",
-    "mechanism": {
-      "commit": "d30cd2d",
-      "content_hash": "74070e8bb0645b3ca0e58ac338c283a4dc4dbe307a737d715357ea4a15002331",
-      "paths": [
-        "runtime/planning_state_call_site.py",
-        "runtime/authority_kernel.py",
-        "tests/test_planning_state_call_site.py"
-      ],
-      "repo": "Archimedes-ImobTech-LICEU-6.0-"
     }
   },
   {
@@ -964,6 +926,57 @@
         "cv-backend-core/tests/test_mae_que_atende.py"
       ],
       "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
+    }
+  },
+  {
+    "id": "PRF-0481",
+    "mechanism": {
+      "commit": "d683c94",
+      "content_hash": "45f9e5779fe2dcc572c8e054532df0981f8abfaf72b67c41f1879c6c68791f0e",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "scripts/elo1_act.py",
+        "tests/test_elo1_act_cli.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0482",
+    "mechanism": {
+      "commit": "d683c94",
+      "content_hash": "80ebb68fdcde3c89ba890434424e1f73c97c5c7102f7ce3dd6f99dbb1c125ae8",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0483",
+    "mechanism": {
+      "commit": "d683c94",
+      "content_hash": "791215e43ba3d6ffe36f9076ce012406b070529e820f3b537f30f5cc260ecda0",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "runtime/authority_kernel.py",
+        "tests/test_planning_state_call_site.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
+    }
+  },
+  {
+    "id": "PRF-0484",
+    "mechanism": {
+      "commit": "d683c94",
+      "content_hash": "9af77dfac1c3461e325aa3d31fe354fffc4137fa87876a63464ba758713ea4a3",
+      "paths": [
+        "runtime/planning_state_call_site.py",
+        "tests/test_planning_state_call_site.py",
+        "tests/test_planning_state_publish.py"
+      ],
+      "repo": "Archimedes-ImobTech-LICEU-6.0-"
     }
   }
 ]
