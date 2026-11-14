@@ -978,5 +978,29 @@
       ],
       "repo": "Archimedes-ImobTech-LICEU-6.0-"
     }
+  },
+  {
+    "id": "PRF-0485",
+    "mechanism": {
+      "commit": "5ceced4",
+      "content_hash": "8180c3aef501cb64109b6cbde718c6673b276170c00e215023bb972e7896c6e8",
+      "paths": [
+        "cefeida/backend/federation/evidence_publisher.py",
+        "cefeida/backend/tests/test_evidence_publisher.py"
+      ],
+      "repo": "3C273-Analytics-Data-Science"
+    }
+  },
+  {
+    "id": "PRF-0486",
+    "mechanism": {
+      "commit": "40e0224",
+      "content_hash": "aaa9268334c0e18f1e8bfec7f08eff493e4dbd7534c43a56c7201b8e47310a82",
+      "paths": [
+        "backend/federation/recommendation_publisher.py",
+        "backend/tests/test_recommendation_publisher.py"
+      ],
+      "repo": "John-Brasileiro-"
+    }
   }
 ]
