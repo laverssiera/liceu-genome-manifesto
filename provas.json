@@ -864,17 +864,6 @@
     }
   },
   {
-    "id": "PRF-0475",
-    "mechanism": {
-      "commit": "21dd17b",
-      "content_hash": "554337386702e6fda223720c685dd7e3c7651fb055e803993748149575773d2c",
-      "paths": [
-        "infra/laboratorio/prova_d0_dsn.py"
-      ],
-      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
-    }
-  },
-  {
     "id": "PRF-0477",
     "mechanism": {
       "commit": "861dfb0",
@@ -1001,6 +990,18 @@
         "backend/tests/test_recommendation_publisher.py"
       ],
       "repo": "John-Brasileiro-"
+    }
+  },
+  {
+    "id": "PRF-0487",
+    "mechanism": {
+      "commit": "568c043",
+      "content_hash": "b4a6d2d04218ebd779b27ca2c86e9730aa5b5c6f12479b49c7cfab251e51fa04",
+      "paths": [
+        "infra/laboratorio/prova_d0_dsn.py",
+        "infra/laboratorio/identidade_da_instancia.py"
+      ],
+      "repo": "LICEU_6.0_CONSTRUTORA_VIRTUAL"
     }
   }
 ]
