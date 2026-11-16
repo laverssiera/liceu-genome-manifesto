@@ -993,10 +993,10 @@
     }
   },
   {
-    "id": "PRF-0487",
+    "id": "PRF-0496",
     "mechanism": {
-      "commit": "568c043",
-      "content_hash": "b4a6d2d04218ebd779b27ca2c86e9730aa5b5c6f12479b49c7cfab251e51fa04",
+      "commit": "738b30e",
+      "content_hash": "34edb1d73487dd482a8648620c5c124892697a3e4e496f16fc7fe2341ca1673f",
       "paths": [
         "infra/laboratorio/prova_d0_dsn.py",
         "infra/laboratorio/identidade_da_instancia.py"
