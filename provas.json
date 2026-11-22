@@ -635,8 +635,8 @@
   {
     "id": "PRF-0388",
     "mechanism": {
-      "commit": "130b631",
-      "content_hash": "06e2cafe5dce0197156bd764a4d65142fb20ec3b00721ce3338100d5aefdc78e",
+      "commit": "14815ad",
+      "content_hash": "44138c742370312a817bae47fe848647dafdf9332af63341d192947e4df10436",
       "paths": [
         "cv-backend-core/app/services/authority_control_plane.py",
         "infra/laboratorio/prova_k06_a_recusa_real.py"
@@ -757,8 +757,8 @@
   {
     "id": "PRF-0428",
     "mechanism": {
-      "commit": "c4390b4",
-      "content_hash": "21418a81cca830631467089dc1322ab76c957c19d8361468c1fa2874094e62de",
+      "commit": "14815ad",
+      "content_hash": "a8b22b14a2d671a3e58fcca51562e2826943fba2bab1812098f3e0547c3408cf",
       "paths": [
         "cv-backend-core/app/main.py",
         "cv-backend-core/app/services/arrival_census.py",
@@ -800,8 +800,8 @@
   {
     "id": "PRF-0431",
     "mechanism": {
-      "commit": "c4390b4",
-      "content_hash": "f69761eef600330982bef60f12d8680f4df3e4f7c0ffff25d9e79dcaead569e5",
+      "commit": "14815ad",
+      "content_hash": "22e5236f500090dcc87a3fb853e309196d8a617b2c9d1908dd1fee25bf61a379",
       "paths": [
         "cv-backend-core/app/main.py",
         "infra/laboratorio/prova_censo_linha_de_base.py"
@@ -866,8 +866,8 @@
   {
     "id": "PRF-0477",
     "mechanism": {
-      "commit": "861dfb0",
-      "content_hash": "54e8bb9f657e81333a678c43d3e9dda230d9f319447ff2d95ac6d49f50a71d4f",
+      "commit": "14815ad",
+      "content_hash": "0449ceecbfc26c7a71fe8d1237ca1ef60b71603314ca76280a7dd779d0529e08",
       "paths": [
         "cv-backend-core/app/services/decisao_aberta.py",
         "cv-backend-core/app/models/decisao_aberta.py",
@@ -881,8 +881,8 @@
   {
     "id": "PRF-0478",
     "mechanism": {
-      "commit": "861dfb0",
-      "content_hash": "39f4aed5f4e56e5a2d4fa56bca372e78d0c31bc3791c0cbc81f33a99a2e30114",
+      "commit": "14815ad",
+      "content_hash": "334e4ef1178b971fef60216f29a1b19bea58002df95dbd954cb9ab70bd07ecba",
       "paths": [
         "cv-backend-core/app/services/decisao_aberta.py",
         "infra/laboratorio/prova_censo_linha_de_base.py",
@@ -894,8 +894,8 @@
   {
     "id": "PRF-0479",
     "mechanism": {
-      "commit": "861dfb0",
-      "content_hash": "af68a10f07ef5c525fac9b8eeb2e28d650342d9e41f109173ef8648789e35537",
+      "commit": "14815ad",
+      "content_hash": "24342a2827d18b2a81cfb5e54e41d4566bb4739a9b106699f06f2b7ed9771763",
       "paths": [
         "infra/laboratorio/prova_unk0024.py",
         "cv-backend-core/app/services/decisao_aberta.py",
@@ -995,8 +995,8 @@
   {
     "id": "PRF-0496",
     "mechanism": {
-      "commit": "738b30e",
-      "content_hash": "34edb1d73487dd482a8648620c5c124892697a3e4e496f16fc7fe2341ca1673f",
+      "commit": "14815ad",
+      "content_hash": "e750ded999932945e064e33336519752960a1f65037a77dbeb46949711363e5d",
       "paths": [
         "infra/laboratorio/prova_d0_dsn.py",
         "infra/laboratorio/identidade_da_instancia.py"
