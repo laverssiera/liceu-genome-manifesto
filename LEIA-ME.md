@@ -8,7 +8,7 @@ confere byte a byte que este repositorio e o derivado do head dela.
 
 | arquivo | o que e |
 |---|---|
-| `provas.json` | provas vigentes com superficie: id e `mechanism` (repo, paths, content_hash, commit) |
+| `provas.json` | provas vigentes com superficie: id e `mechanism` (repo, paths, content_hash, commit; e reexecuted_at, attested_by quando a prova foi reexecutada) |
 | `pfc.json` | falsas afirmacoes evitadas: id e os testes de regressao (repo, file, name) |
 | `tools/` | as ferramentas que as CIs rodam, copias byte a byte das do genoma; entre elas a guarda de privacidade dos repositorios publicos, sem a lista de negacao, que entra por secret |
 
